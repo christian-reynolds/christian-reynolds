@@ -17,6 +17,28 @@ After spending over a decade working my way up to an architect position in the .
 - 📫 How to reach me: [cmreynol@protonmail.com](cmreynol@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/christian-reynolds-3282a39a/).
 - ⚡ Fun fact: I enjoy hands on coding so much that I quit my job as an architect to go back into a position as an engineer!
 
+<br>
+<br>
+
+## 🔨Languages, Tools & Tech 👷
+
+<p>
+    <a href="https://ethereum.org" rel="nofollow"> <img align="left"
+            src="img/ethereum_logo.png"
+            alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
+    <a href="https://soliditylang.org" rel="nofollow"> <img align="left"
+            src="img/solidity_logo.png"
+            alt="Solidity" height="48px" style="max-width: 100%;"> </a>
+    <a href="https://hardhat.org/" rel="nofollow"><img align="left" alt="Hardhat" height="42px"
+            src="img/hardhat_logo.svg"
+            style="max-width: 100%;"></a>
+    <a href="https://www.javascript.com/" rel="nofollow"> <img align="left" alt="Javascript" height="48px"
+            src="img/javascript_logo.png"
+            style="max-width: 100%;"> </a>
+    <a href="https://dotnet.microsoft.com/" rel="nofollow"><img align="left" alt="Microsoft" height="48px"
+            src="img/microsoft_logo.png"
+            style="max-width: 100%;"></a>
+</p>
 
 <!--
 **christian-reynolds/christian-reynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

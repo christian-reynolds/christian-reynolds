@@ -17,11 +17,15 @@ After spending over a decade working my way up to an architect position in the .
 - 📫 How to reach me: [cmreynol@protonmail.com](cmreynol@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/christian-reynolds-3282a39a/).
 - ⚡ Fun fact: I enjoy hands on coding so much that I quit my job as an architect to go back into a position as an engineer!
 
+
 ## 🔨Languages, Tools & Tech 👷
 
 These are languages, tools, and technologies I have either used at work or enjoy using on my own time.
 
 <p>
+    <a href="https://dotnet.microsoft.com/" rel="nofollow"><img align="left" alt="Microsoft" height="48px"
+            src="img/microsoft_logo.png"
+            style="max-width: 100%;"></a>
     <a href="https://ethereum.org" rel="nofollow"> <img align="left"
             src="img/ethereum_logo.png"
             alt="Ethereum" height="48px" style="max-width: 100%;"> </a>
@@ -34,10 +38,17 @@ These are languages, tools, and technologies I have either used at work or enjoy
     <a href="https://www.javascript.com/" rel="nofollow"> <img align="left" alt="Javascript" height="48px"
             src="img/javascript_logo.png"
             style="max-width: 100%;"> </a>
-    <a href="https://dotnet.microsoft.com/" rel="nofollow"><img align="left" alt="Microsoft" height="48px"
-            src="img/microsoft_logo.png"
+    <a href="https://reactjs.org/" rel="nofollow"><img align="left" alt="React" height="48px"
+            src="img/react.svg"
+            style="max-width: 100%;"></a>
+    <a href="https://www.typescriptlang.org/" rel="nofollow"><img align="left" alt="TypeScript" height="48px"
+            src="img/ts-logo-128.png"
             style="max-width: 100%;"></a>
 </p>
+
+<br>
+<br>
+<br>
 
 ## Statistics
 

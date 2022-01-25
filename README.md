@@ -17,10 +17,9 @@ After spending over a decade working my way up to an architect position in the .
 - 📫 How to reach me: [cmreynol@protonmail.com](cmreynol@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/christian-reynolds-3282a39a/).
 - ⚡ Fun fact: I enjoy hands on coding so much that I quit my job as an architect to go back into a position as an engineer!
 
-<br>
-<br>
-
 ## 🔨Languages, Tools & Tech 👷
+
+These are languages, tools, and technologies I have either used at work or enjoy using on my own time.
 
 <p>
     <a href="https://ethereum.org" rel="nofollow"> <img align="left"
@@ -39,6 +38,10 @@ After spending over a decade working my way up to an architect position in the .
             src="img/microsoft_logo.png"
             style="max-width: 100%;"></a>
 </p>
+
+## Statistics
+
+![Github Activity](https://github-readme-stats.vercel.app/api?username=christian-reynolds&show_icons=true&count_private=true&theme=synthwave)
 
 <!--
 **christian-reynolds/christian-reynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

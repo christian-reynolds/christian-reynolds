@@ -14,7 +14,7 @@ After spending over a decade working my way up to an architect position in the .
 - 🔭 I just completed a 10 week Solidity bootcamp, **[Encode Solidity Bootcamp](https://www.encode.club/encode-bootcamp) by [Encode Club](https://www.encode.club/)**
 - 👯 I’m looking to collaborate on projects that will help me learn **Solidity and front end frameworks**!
 - 🤔 I’m looking for help with **learning more about blockchain development**
-- 📫 How to reach me: [cmreynol@protonmail.com](cmreynol@protonmail.com)
+- 📫 How to reach me: [cmreynol@protonmail.com](cmreynol@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/christian-reynolds-3282a39a/)
 - ⚡ Fun fact: I enjoy hands on coding so much that I quit my job as an architect to go back into a position as an engineer!
 
 

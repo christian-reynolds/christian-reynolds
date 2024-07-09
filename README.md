@@ -6,14 +6,13 @@
 
 # Hi there 👋
 
-After spending over a decade working my way up to an architect position in the .NET world, I am now exploring and expanding my coding skills by blending my love of coding and cryptocurrencies.
+I code for fun in my free time!  If there is anything you would like help with, let me know!  I'm always interesting in taking on interesting projects.
 
 ## About me
  
-- 🌱 I’m currently learning **[Solidity](https://soliditylang.org/), [React](https://reactjs.org/), and [TypeScript](https://www.typescriptlang.org/)**.
-- 🔭 I just completed a 10 week Solidity bootcamp, **[Encode Solidity Bootcamp](https://www.encode.club/encode-bootcamp) by [Encode Club](https://www.encode.club/)**.
-- 👯 I’m looking to collaborate on projects that will help me learn **Solidity and front end frameworks**!
-- 🤔 I’m looking for help with **learning more about blockchain development**.
+- 🌱 I’m currently learning how Large Language Models can transform my workflow and enhance the projects I build!
+- 👯 I’m looking to collaborate on projects that will help me integrate with Large Language Models!
+- 🤔 I’m looking for help with **learning more about the use cases of LLMs**.
 - 📫 How to reach me: [cmreynol@protonmail.com](mailto:cmreynol@protonmail.com) or [LinkedIn](https://www.linkedin.com/in/christian-reynolds-3282a39a/).
 - ⚡ Fun fact: I enjoy hands on coding so much that I quit my job as an architect to go back into a position as an engineer!
 
